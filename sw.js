@@ -14,7 +14,7 @@ self.addEventListener('install', event => {
           'restaurant.html',
           'sw.js',
           'css/styles.css',
-          //'manifest.json',
+          'manifest.json',
           'img/1.jpg',
           'img/2.jpg',
           'img/3.jpg',
