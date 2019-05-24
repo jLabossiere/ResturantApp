@@ -200,7 +200,7 @@ nav h1 a {
   position: fixed;
   right: 0;
   top: 80px;
-  width: 50%;
+  width: 45%;
 }
 .inside #map {
   background-color: #ccc;
@@ -278,7 +278,7 @@ nav h1 a {
 #restaurant-hours td {
   color: #666;
 }
-
+/*Media Querys*/
 @media only screen and (max-width: 800px) {
   #map {
     height: 300px;
@@ -331,6 +331,9 @@ nav h1 a {
     font-size: 4vw;
   }
   #restaurants-list p {
+    font-size: 3vw;
+  }
+  #reviews-list li p {
     font-size: 3vw;
   }
 }
