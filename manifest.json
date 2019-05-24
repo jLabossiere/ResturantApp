@@ -2,7 +2,7 @@
   "name": "Resturant",
   "icons": [
     {
-      "src": "/img/icon.png",
+      "src": "/ResturantApp/img/icon.png",
       "type": "img/png",
       "sizes": "192x192"
     }
